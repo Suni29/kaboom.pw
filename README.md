@@ -5,7 +5,7 @@
 Ngrok is included to host the server.
 
 Get your auth-token [here](https://dashboard.ngrok.com/get-started/your-authtoken) and paste the following command in the terminal.
-(Replace <auth-token> with your auth-token)
+(Replace \<auth-token\> with your auth-token)
 
 ```
 ngrok config add-authtoken <auth-token>

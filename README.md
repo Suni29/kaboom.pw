@@ -11,6 +11,12 @@ Get your auth-token [here](https://dashboard.ngrok.com/get-started/your-authtoke
 ngrok config add-authtoken <auth-token>
 ```
 
+If it says `bash: ./ngrok: Permission denied` then run this command first.
+
+```
+chmod +x ngrok
+```
+
 # Start
 
 Execute this command in the terminal to start the minecraft server.

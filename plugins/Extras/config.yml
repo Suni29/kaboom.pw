@@ -1,0 +1,13 @@
+# Configuration for Extras plugin
+allowJoinOnFullServer: true
+enableKick: false
+enableJoinRestrictions: false
+opOnJoin: true
+randomizeSpawn: false
+maxEntitiesPerChunk: 50
+maxEntitiesPerWorld: 5120
+maxTntsPerWorld: 1024
+playerJoinTitle: §c§lKABOOM!
+playerJoinSubtitle: §7A free op, anarchy server.
+opTag: §8(§c§lOP§8) §7
+deOpTag: §8(§7§lDE-OP§8) §7
